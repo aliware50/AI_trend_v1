@@ -183,7 +183,9 @@
 
 /\bKimi\b|\bMoonshot\b/ => 月之暗面AI
 
-/\bxAI\b/ => 特斯拉AI
+/天工（Skywork）|\bMureka\b|\bSkyReels\b/ => 昆仑万维AI 
+
+/\bxAI\b｜\bGrok\b/ => 特斯拉AI
 
 /\bCopilot\b|\bAzure\b/ => 微软AI
 
