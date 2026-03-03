@@ -185,9 +185,9 @@
 
 /阿里｜马云｜\bqwen\b|通义千问｜通义万相/ => 阿里
 
-/稀宇科技｜minimax｜\bHailuo\b|/ => 稀宇科技
+/稀宇科技｜minimax｜\bHailuo\b/ => 稀宇科技
 
-/智谱AI｜\bGLM\b｜CodeGeeX｜CogView｜CogVLM｜清影 => 智谱AI
+/智谱AI｜\bGLM\b｜CodeGeeX｜CogView｜CogVLM｜清影/ => 智谱AI
 
 /月之暗面AI｜杨植麟｜\bKimi\b|\bMoonshot\b/ => 月之暗面AI
 /特斯拉|马斯克|\bxAI\b|\bTesla\b|\bElon Musk\b|\bCybertruck\b|\bModel 3\b|\bModel Y\b|\bModel S\b|\bModel X\b|\bFSD\b/ => 特斯拉
@@ -273,4 +273,3 @@ AI行业国家标准
 美国AI行政命令
 全球AI安全峰会
 跨国AI监管规则
-#生产力
