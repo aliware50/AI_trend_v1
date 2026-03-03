@@ -131,9 +131,14 @@ rss:
     - id: "ai-tool"
       name: "AI快讯工具"
       url: "https://ai-bot.cn/daily-ai-news"
-      max_age_days: 1  
-    
+      max_age_days: 7
 
+    - id: "zhihu-kuaixun"
+      name: "知乎博主"
+      url: "https://www.zhihu.com/people/mao-song-88"
+      max_age_days: 7
+    
+    
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
