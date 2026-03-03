@@ -231,6 +231,8 @@
 agent
 文生图
 文生视频
+OpenClaw
+MCP
 
 #[芯片]
 #芯片
