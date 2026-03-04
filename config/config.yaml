@@ -367,7 +367,7 @@ ai:
   #api_key: "sk-4659798e0f344fe3bedbf328a6b6776e"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   #api_base: "https://eisapi.byd.com/open-api/1.0/llm/v1/qwen3-open-32b"                      # 自定义 API 端点（可选，大多数情况留空）
-  model: "dashscope/qwen-plus"
+  model: "dashscope/qwen-max"
 
   api_key: "sk-2aa1fd519cbd4813a3da8c115b0fadf5"                       # API Key（建议使用环境变量 AI_API_KEY）
   
