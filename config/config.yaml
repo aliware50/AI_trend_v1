@@ -362,7 +362,7 @@ ai:
   # 完整列表: https://docs.litellm.ai/docs/providers
   # 如果你对于看英文文档比较头疼，那么可以点击页面右下角的 【Ask AI】 ,用中文询问怎么配置 
   
-  model: "qwen3-32b-awq"
+  model: "openai/qwen3-32b-awq"
 
   api_key: "sk-4659798e0f344fe3bedbf328a6b6776e"                       # API Key（建议使用环境变量 AI_API_KEY）
   
