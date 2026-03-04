@@ -364,7 +364,7 @@ ai:
   
   model: "qwen3-32b-awq"
 
-  api_key: "sk-df6482b5afef4985a88d893df792a445"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "sk-4659798e0f344fe3bedbf328a6b6776e"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://eisapi.byd.com/open-api/1.0/llm/v1/qwen3-open-32b"                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
