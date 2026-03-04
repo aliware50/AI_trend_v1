@@ -130,7 +130,7 @@ rss:
       
     - id: "ai-tool"
       name: "AI快讯工具"
-      url: "https://ai-bot.cn/daily-ai-news"
+      url: "https://ai-bot.cn/daily-ai-news/"
       max_age_days: 7
 
     - id: "zhihu-kuaixun"
